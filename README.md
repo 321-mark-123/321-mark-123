@@ -45,7 +45,7 @@ TwinCat](https://avatars.githubusercontent.com/u/12964547?s=200&v=4)
 ## 📫 How to reach me
 
 - ✉️ [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mark-becker-54467423b?))
+- 💼 [LinkedIn](https://www.linkedin.com/in/mark-becker-54467423b?)
 
 ---
 
